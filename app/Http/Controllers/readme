@@ -1,0 +1,13 @@
+
+
+
+
+
+
+
+
+
+
+Controllers act as the middle layer that handles the logic between routes and models. 
+
+A controller processes the incoming request, interacts with models (databases), and returns a response.

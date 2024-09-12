@@ -1,0 +1,8 @@
+ 
+ 
+ 
+ 
+ 
+ models represent the data structure of your application and provide an interface to interact with your database. They are part of the MVC (Model-View-Controller) architecture and are typically used to retrieve, insert, update, and delete data in a database table.
+
+ In this case, the Task model represents the tasks table in the database, and you can use it to interact with that table.

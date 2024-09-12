@@ -1,0 +1,3 @@
+Form Requests are custom request validation classes that encapsulate validation logic. 
+They are particularly useful when you want to validate user 
+inputs before they reach the controller logic.
